@@ -52,7 +52,7 @@ rm -rf .telegram-cli
 
 ```
 cd MasterBot
-chmod +x slflaunch.sh
+chmod +x selflaunch.sh
 ./selflaunch.sh install
 chmod +x autolaunch.sh
 ./autolaunch.sh
